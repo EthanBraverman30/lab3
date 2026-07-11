@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethanbraverman/school coding/lab3/main'
+relocations:     []
+...
